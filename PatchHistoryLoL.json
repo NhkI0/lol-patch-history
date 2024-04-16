@@ -1,0 +1,157 @@
+{
+  "14": {
+    "1": {
+      "Date": "10-01-2024",
+      "Changes": {"Hwei": 1},
+      "Skins": {}
+    },
+    "2": {
+      "Date": "24-01-2024",
+      "Changes": {
+        "Blitzcrank"  : 0,
+        "Fizz"        : 0,
+        "Jax"         : 0,
+        "Rumble"      : 0,
+        "Teemo"       : 0,
+        "Ahri"        : 1,
+        "Camille"     : 1,
+        "Darius"      : 1,
+        "Ezreal"      : 1,
+        "Garen"       : 1,
+        "Gragas"      : 1,
+        "Gwen"        : 1,
+        "Hwei"        : 1,
+        "Illaoi"      : 1,
+        "Karma"       : 1,
+        "Karthus"     : 1,
+        "Twisted Fate": 1,
+        "Shen"        : 1,
+        "Veigar"      : 1,
+        "Briar"       : 2,
+        "Nidalee"     : 2
+      },
+      "Skins": {}
+    },
+    "3": {
+      "Date": "07-02-2024",
+      "Changes": {
+        "Azir"        : 0,
+        "Brand"       : 0,
+        "Ezreal"      : 0,
+        "Karma"       : 0,
+        "Lillia"      : 0,
+        "Rengar"      : 0,
+        "Trundle"     : 0,
+        "Aurelion Sol": 1,
+        "Pyke"        : 1,
+        "Nidalee"     : 1,
+        "Shaco"       : 1,
+        "Shyvana"     : 1,
+        "Taliyah"     : 1,
+        "Teemo"       : 1,
+        "Wukong"      : 1,
+        "Yorick"      : 1,
+        "Zeri"        : 1,
+        "Ziggs"       : 1,
+        "Corki"       : 2,
+        "Illaoi"      : 2,
+        "Maokai"      : 2,
+        "Zyra"        : 2
+      },
+      "Skins": {}
+    },
+    "4": {
+      "Date": "22-02-2024",
+      "Changes": {
+        "Aurelion Sol": 0,
+        "Bard"        : 0,
+        "Fiora"       : 0,
+        "Illaoi"      : 0,
+        "Kalista"     : 0,
+        "Maokai"      : 0,
+        "Twisted Fate": 0,
+        "Varus"       : 0,
+        "Zyra"        : 0,
+        "Ahri"        : 1,
+        "Jayce"       : 1,
+        "Kai'Sa"      : 1,
+        "Lulu"        : 1,
+        "Renekton"    : 1,
+        "Soraka"      : 1,
+        "Thresh"      : 1,
+        "Volibear"    : 1,
+        "Smolder"     : 2,
+        "K'Sante"     : 2,
+        "Rek'Sai"     : 2
+      },
+      "Skins": {}
+    },
+    "5": {
+      "Date": "06-03-2024",
+      "Changes": {
+        "Bel'Veth"    : 0,
+        "Brand"       : 0,
+        "Evelynn"     : 0,
+        "Maokai"      : 0,
+        "Nidalee"     : 0,
+        "Senna"       : 0,
+        "Twisted Fate": 0,
+        "Yorick"      : 0,
+        "Zac"         : 0,
+        "Jarvan IV"   : 1,
+        "Kayn"        : 1,
+        "Kog'Maw"     : 1,
+        "Rek'Sai"     : 1,
+        "Sivir"       : 1,
+        "Veigar"      : 1,
+        "Vex"         : 1,
+        "Wukong"      : 1,
+        "Seraphine"   : 2,
+        "Smolder"     : 2
+      },
+      "Skins": {}
+    },
+    "6": {
+      "Date": "20-03-2024",
+      "Changes": {
+        "Briar"     : 0,
+        "Gragas"    : 0,
+        "Karma"     : 0,
+        "Senna"     : 0,
+        "Smolder"   : 0,
+        "Volibear"  : 0,
+        "Cho'Gath"  : 1,
+        "Diana"     : 1,
+        "Ornn"      : 1,
+        "Shen"      : 1,
+        "Sion"      : 1,
+        "Tryndamere": 1,
+        "Galio"     : 2,
+        "Kayn"      : 2,
+        "Rek'Sai"   : 2
+      },
+      "Skins": {}
+    },
+    "7": {
+      "Date": "03-04-2024",
+      "Changes": {
+        "Fiora"   : 0,
+        "Rek'Sai" : 0,
+        "Rell"    : 0,
+        "Volibear": 0,
+        "Galio"   : 1,
+        "Karma"   : 1,
+        "Kayn"    : 1,
+        "Lux"     : 1,
+        "Nami"    : 1,
+        "Nasus"   : 1,
+        "Olaf"    : 1,
+        "Smolder" : 1,
+        "Sona"    : 1,
+        "Sylas"   : 1,
+        "Camille" : 2
+      },
+      "Skins": {}
+    }
+  }
+}
